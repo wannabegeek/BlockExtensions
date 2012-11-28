@@ -4,7 +4,7 @@
 //  Created by Tom Fewster on 07/10/2011.
 //
 
-
+#import <UIKit/UIKit.h>
 
 @interface UIAlertView (BlockExtensions) <UIAlertViewDelegate>
 
